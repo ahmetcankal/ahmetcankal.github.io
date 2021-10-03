@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alaettin UÇAN, PhD"
+title                    : "Ahmet ÇANKAL, PhD-2021"
 title_separator          : "-"
-name                     : &name "Alaettin UÇAN"
+name                     : &name "Ahmet ÇANKAL"
 description              : &description "personal description"
 url                      : https://aucan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aucan/aucan.github.io"
+repository               : "ahmetcankal/ahmetcankal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,19 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alaettin UÇAN"
+  name             : "Ahmet ÇANKAL"
   avatar           : "avatar.jpg"
-  bio              : "Phd @ CS, Text Mining, Deep Learning, Optimization, Pretrained Language Models, Fullstack Machine Learning Engineer"
+  bio              : "Phd @ CS,  Optimization, Pretrained Language Models, Computer Engineer"
   location         : "Osmaniye / Turkey"
   employer         : "Osmaniye Korkut Ata University"
-  googlescholar    : "https://scholar.google.com.tr/citations?user=dbZzyagAAAAJ"
-  email            : "aucan@osmaniye.edu.tr"
-  researchgate     : "https://www.researchgate.net/profile/Alaettin_Ucan"
-  github           : "aucan"
-  linkedin         : "alaettin-ucan"
-  orcid            : "https://orcid.org/0000-0002-2493-4022"
-  twitter          : "alaettin_ucan"
-  uri              : "https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=36CE9652391EA366"
+  googlescholar    : ""
+  email            : "ahmet.cankal@osmaniye.edu.tr"
+  researchgate     : "https://www.researchgate.net/profile/ahmetcankal"
+  github           : "ahmetcankal"
+  linkedin         : "ahmetcankal"
+  orcid            : ""
+  twitter          : ""
+  uri              : ""
 
 
 # Reading Files
