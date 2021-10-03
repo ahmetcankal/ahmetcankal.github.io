@@ -3,7 +3,7 @@ title: "ENFI-Temel Bilgi Teknolojileri (2021 Güz)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-enf1
-venue: "Korkut Ata University, Management Information Systems"
+venue: "Korkut Ata Universitesi, İktisat&Siyaset Bilimi ve Kamu Yönetimi"
 date: 2021-09-24
 location: "Osmaniye, Turkey"
 ---
