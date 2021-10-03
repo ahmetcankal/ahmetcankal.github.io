@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Dr. Alaettin UÇAN.
 
-I received my M.Sc.(2014) and Ph.D.(2020) degree from the [Computer Engineering Department of Hacettepe University](http://cs.hacettepe.edu.tr) . The subject of my doctoral dissertation is the "Use of Optimization and Pretrained Language models in Emotion Analysis".
+Öğr.gör. Ahmet ÇANKAL
 
-My main research topics are Information Retrieval, Natural Language Processing, Text Mining, Machine Learning, and Optimization. I am also a full-stack machine learning engineer.
+Mersin üniversitesi Bilgisayar Mühendisliği bölümünden 2001'de mezun oldum. 10 yıl kadar özel sektörde bilgi sistemleri yöneticisi olarak çalıştım. 2010 da Osmaniye MYO -Bilgisayar Programcılığına öğretim görevlisi olarak başladım. 2013 yılından itibaren İİBF-Yönetim Bilişim Sistemleri bölümünde öğretim görevlisi olarak çalışmaktayım. 
+2015 yılında OKÜ işletme bölümünde "Genetik algoritma kullanarak hisse senedi portföy optimizasyonu: BİST - 30'da bir uygulama" tezi ile Yüksek lisansı tamamladım. 
 
-I took part in academic projects supported by TUBITAK and commercial projects for several institutions such as " TAF General Staff", "Ministry of Health", "Central Bank of the Republic of Turkey" and "Ford Turkey".
-
-Please contact [me](mailto:ucanalaettin@gmail.com) for academic and commercial collaborations.
+İletişim için: ahmet.cankal@osmaniye.edu.tr  veya acankal@gmail.com adresini kullanabilirsiniz. 
