@@ -9,50 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Eğitim
 ======
-* B.S. in Computer Engineering, KTMU University, 2007
-* M.S. in Computer Engineering, Hacettepe University, 2014
-* Ph.D in Computer Engineering, Hacettepe University, 2020
+* B.S. in Bilgisayar Mühendisliği, Mersin University, 2001
+* M.S. in İşletme, Osmaniye Korkut Ata Universitesi, 2015
+* Ph.D in İşletme ,Osmaniye Korkut Ata Universitesi, 2015-
 
-Work experience
+İş Tecrübeleri
 ======
-* 2010-*: Research Assistant
-  * Osmaniye Korkut Ata University
-  * M.I.S. Dept.
+* 2010-*: Öğretim Görevlisi
+  * Osmaniye Korkut Ata Universitesi
+  * OMYO- Bilgisayar Programcılığı
 
-* 2012-2020: Research Assistant
-  * Hacettepe University
-  * Computer Engineering. Dept.
+* 2013-: Öğretim Görevlisi
+  * Osmaniye Korkut Ata Universitesi
+  * İİBF-Yönetim Bilişim Sistemleri
   
-* 2008-2010: Software Developer
-  * Kardelen Software
-  
-Skills
-======
-* Text Mining
-* Machine Learning
-  * Conventional Methods (SVM, KNN, DT, ANN, etc.)
-  * Deep Methods (CNN, LSTM, GRU, Attention, etc.)
-  * Transfer Learning Methods (Word Embeddings, BERTs, etc.)
-* Feature Engineering (x2, Information Gain, TF/IDF, etc.)
-* Text pre-processing (Turkish and English NLP tools)
-* Optimization Methods (PSO, GWO, etc.)
-
-[Türkçe CV](../files/cv.pdf)
 
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
